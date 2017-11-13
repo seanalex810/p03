@@ -18,7 +18,7 @@ Bitmap image;
 for (int i=0; i < MAXNUM; i++)
   { 
     Bitmap image2;
-    cout << "enter a image file";
+    cout << "enter up to 10 image files. Enter done when finished. ";
     cin >> picture; 
     if (picture == "done") 
         { 
